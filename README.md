@@ -4,8 +4,7 @@
 ---
 
 🌍 I'm based in **Mohali, India**  
-⚛️ I love working with **MERN stack** and solving problems through **programming**  
-🚀 I've explored CSS libraries like **Tailwind CSS** and **styled-components**  
+⚛️ I love working with **Java** and solving problems through **programming**   
 📧 Reach me at: [jiteshkumar02370@gmail.com](mailto:jiteshkumar02370@gmail.com)  
 🌐 Portfolio: [  
 🔗 LinkedIn: [linkedin.com/in/jitesh-kumar-16631530a?](https://www.linkedin.com/in/jitesh-kumar-16631530a?)
