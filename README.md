@@ -6,7 +6,7 @@
 🌍 I'm based in **Mohali, India**  
 ⚛️ I love working with **Java** and solving problems through **programming**   
 📧 Reach me at: [jiteshkumar02370@gmail.com](mailto:jiteshkumar02370@gmail.com)  
-🌐 Portfolio: [github.com/Jiteshkmr840900/Portfolio.git](https://github.com/Jiteshkmr840900/Portfolio.git)
+🌐 Portfolio: [github.com/Jiteshkmr840900/Portfolio.git](https://github.com/Jiteshkmr840900/Portfolio.git)   
 🔗 LinkedIn: [linkedin.com/in/jitesh-kumar-16631530a?](https://www.linkedin.com/in/jitesh-kumar-16631530a?)
 
 
